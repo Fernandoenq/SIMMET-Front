@@ -1,0 +1,21 @@
+[debug] [2024-06-11T17:45:41.394Z] ----------------------------------------------------------------------
+[debug] [2024-06-11T17:45:41.397Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ferna\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-06-11T17:45:41.397Z] CLI Version:   13.11.2
+[debug] [2024-06-11T17:45:41.397Z] Platform:      win32
+[debug] [2024-06-11T17:45:41.397Z] Node Version:  v20.14.0
+[debug] [2024-06-11T17:45:41.398Z] Time:          Tue Jun 11 2024 14:45:41 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2024-06-11T17:45:41.398Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-06-11T17:45:41.403Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-06-11T17:45:41.404Z] > authorizing via signed-in user (fernandoal74.fa@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ferna\OneDrive\Documents\CronJobSaveDatas\agora-vai-2022-1\src
+
